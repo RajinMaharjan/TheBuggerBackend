@@ -32,9 +32,9 @@ QA Lint is a hiring application based on hiring QA engineers where the QA can st
 - Search for App password in your google account setting, then:
     - Select main in app option
     - Select Windows Computer in device option
-![image](https://github.com/QA-Lint/QA_Lint-Backend/assets/132996735/5b103db5-a607-47bc-920b-7834f51572ab)
-![image](https://github.com/QA-Lint/QA_Lint-Backend/assets/132996735/e3043fe2-f7a9-4b85-99b8-76f8be27fe9a)
-![image](https://github.com/QA-Lint/QA_Lint-Backend/assets/132996735/256e0d11-5877-44b6-bf90-47afb4bdae04)
+![image](https://github.com/RajinMaharjan/TheBuggerBackend/assets/46868526/2e525dd9-eba2-4841-b538-d767cc853ca8)
+![image](https://github.com/RajinMaharjan/TheBuggerBackend/assets/46868526/c1055f08-e56e-423d-a8b6-f8be645c6ae8)
+![image](https://github.com/RajinMaharjan/TheBuggerBackend/assets/46868526/c9cad2ce-73b9-4c24-a743-dfb14d311677)
 - Select generate, then new password is generated which you will use in your code for sending mail with. 
  
 ## Adding migration and updating database using console 
