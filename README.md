@@ -62,11 +62,11 @@ The Bugger is a hiring application based on hiring QA engineers where the QA can
     dotnet run 
 
 ## Docker Commands to check for deployment
-### Building Docker image
+### Build Docker image
     docker build -t thebugger .
 Where qalint in the name of image you want to build.
 
-### Running Container
+### Run Container
     docker run -d -p 8080:80 --name api thebugger
 Where thebugger is the name of the image you already built and api is the name of container you are going to run in.
 
