@@ -1,6 +1,7 @@
 # TheBuggerBackend
 ## Table of Contents
 - Description
+- Screenshots
 - Technologies used
 - Prerequisites
 - Installation
@@ -23,6 +24,10 @@ The Bugger is a hiring application based on hiring QA engineers where the QA can
 - .NET SDK(7.0)
 - Entity Framework Core (7.0)
 - MySQL Workbench, MySQL Server and MySQL Connector
+
+## Screenshots
+![image](https://github.com/RajinMaharjan/TheBuggerBackend/assets/46868526/c88c70aa-fac4-4e63-adac-28921705a1dd)
+![image](https://github.com/RajinMaharjan/TheBuggerBackend/assets/46868526/b61d8c88-b794-41db-b869-97105a72419f)
 
 ### Database Setup
 - Install MySQL Workbench, MySQL Server and MySQL Connector.
