@@ -39,7 +39,7 @@ namespace Excallibur.Infrastructure.Configurations
             //Swagger changes to implement Jwt token.
             services.AddSwaggerGen(options =>
             {
-                options.SwaggerDoc("v1", new OpenApiInfo { Title = "QA lint API", Version = "v1" });
+                options.SwaggerDoc("v1", new OpenApiInfo { Title = "The Bugger API", Version = "v1" });
                 options.AddSecurityDefinition("Bearer", new OpenApiSecurityScheme
                 {
                     In = ParameterLocation.Header,
