@@ -1,4 +1,4 @@
-# TheBuggerBackend
+![image](https://github.com/RajinMaharjan/TheBuggerBackend/assets/46868526/e9171d71-1cfc-4f55-bda3-2228d0428a2d)# TheBuggerBackend
 ## Table of Contents
 - Description
 - Screenshots
@@ -26,8 +26,8 @@ The Bugger is a hiring application based on hiring QA engineers where the QA can
 - MySQL Workbench, MySQL Server and MySQL Connector
 
 ## Screenshots
-![image](https://github.com/RajinMaharjan/TheBuggerBackend/assets/46868526/c88c70aa-fac4-4e63-adac-28921705a1dd)
-![image](https://github.com/RajinMaharjan/TheBuggerBackend/assets/46868526/b61d8c88-b794-41db-b869-97105a72419f)
+![image](https://github.com/RajinMaharjan/TheBuggerBackend/assets/46868526/d731b824-b471-4af2-b1ae-8e3b932f500e)
+![image](https://github.com/RajinMaharjan/TheBuggerBackend/assets/46868526/bb8cf94c-15ef-43e3-bde8-c2687ce8857a)
 
 ### Database Setup
 - Install MySQL Workbench, MySQL Server and MySQL Connector.
