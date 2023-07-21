@@ -2,7 +2,7 @@
 ## Go to following link to learn to setup Clean Architecture
 https://github.com/RajinMaharjan/Clean-Architecture-ASP.NET-Web-API
 ## Description
-QA Lint is a hiring application based on hiring QA engineers where the QA can start testing in real world by passing two tests.
+The Bugger is a hiring application based on hiring QA engineers where the QA can start testing in real world by passing two tests.
 ### Key features:
 - Email verification with link
 - Reset password verification with link
