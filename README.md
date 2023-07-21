@@ -1,6 +1,5 @@
 # TheBuggerBackend
-## Go to following link to learn to setup Clean Architecture(optional)
-https://github.com/RajinMaharjan/Clean-Architecture-ASP.NET-Web-API
+
 ## Description
 The Bugger is a hiring application based on hiring QA engineers where the QA can start testing in real world by passing two tests.
 ### Key features:
@@ -53,14 +52,12 @@ The Bugger is a hiring application based on hiring QA engineers where the QA can
 
 ## Docker Commands to check for deployment
 ### Building Docker image
-    docker build -t qalint .
+    docker build -t thebugger .
 Where qalint in the name of image you want to build.
 
 ### Running Container
-    docker run -d -p 8080:80 --name api qalint
-Where qalint is the name of the image you already built and api is the name of container you are going to run in.
-## Adding migration and updating database using console 
-### Adding Migration
-    dotnet ef migrations add "migration message" --project src/Infrastructure --startup-project src/Api -o Persistence/Migrations 
-### Updating database
-    dotnet ef database update  --project src/Infrastructure --startup-project src/Api
+    docker run -d -p 8080:80 --name api thebugger
+Where thebugger is the name of the image you already built and api is the name of container you are going to run in.
+
+## Go to following link to learn to setup Clean Architecture(optional)
+https://github.com/RajinMaharjan/Clean-Architecture-ASP.NET-Web-API
