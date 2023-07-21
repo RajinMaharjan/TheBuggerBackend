@@ -1,5 +1,5 @@
 # TheBuggerBackend
-## Go to following link to learn to setup Clean Architecture
+## Go to following link to learn to setup Clean Architecture(optional)
 https://github.com/RajinMaharjan/Clean-Architecture-ASP.NET-Web-API
 ## Description
 The Bugger is a hiring application based on hiring QA engineers where the QA can start testing in real world by passing two tests.
